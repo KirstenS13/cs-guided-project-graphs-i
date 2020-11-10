@@ -1,0 +1,5 @@
+Graphs = cool and complicated
+
+Understanding is more important than implementation for interviews
+
+Graph problems tend to be very involved
